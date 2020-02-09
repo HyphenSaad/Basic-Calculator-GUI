@@ -1,4 +1,3 @@
-## *Semester 01*
 ### Basic Calculator - GUI
 
 ##### Department of Computer Science & Information Technology
