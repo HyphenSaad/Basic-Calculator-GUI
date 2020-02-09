@@ -16,7 +16,7 @@ Bascially, when program runs a Graphical Window appears. Then, user select the o
 ### Compile
 You should have configured `C++` Compiler. Open command promt in the project directory and execute the following command:
 ```
-g++ -L"include\lib" -c main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+g++ -L"include\lib" main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 ```
 
 Happy Coding <3
