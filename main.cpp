@@ -118,7 +118,11 @@ main(){
         cin >> num_1;
         cout << "  Power:\t";
         cin >> num_2;
-        result = num_1 * num_2;
+	result = 1;
+	while(num_2 > 0){
+		result *= num_1;
+		--num_2;
+	}
     } else {
         result = 0;
         INVALID:
