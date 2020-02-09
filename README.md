@@ -1,4 +1,4 @@
-### Basic Calculator - GUI
+## *Basic Calculator - GUI*
 
 ##### Department of Computer Science & Information Technology
 #### Language: C++
