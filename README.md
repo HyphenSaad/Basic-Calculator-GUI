@@ -1,8 +1,4 @@
-## *Basic Calculator - GUI*
-
-##### Department of Computer Science & Information Technology
-#### Language: C++
-
+## **Basic Calculator - GUI**
 A program written in `C++`, that perform following mathematical operations on given numbers:
 - Addition
 - Substraction
